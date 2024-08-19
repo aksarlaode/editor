@@ -22,7 +22,7 @@
     "@aksar/auth": "workspace:*",
     "@aksar/db": "workspace:*",
     "@aksar/validators": "workspace:*",
-    "@trpc/server": "catalog:",
+    "@trpc/server": "11.0.0-rc.477",
     "superjson": "2.2.1",
     "zod": "catalog:"
   },
