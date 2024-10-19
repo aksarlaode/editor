@@ -10,9 +10,7 @@
 
 > [!NOTE]
 >
-> Due to high demand, this repo now uses the `app` directory with some new experimental features. If you want to use the more traditional `pages` router, [check out the repo before the update](https://github.com/t3-oss/create-t3-turbo/tree/414aff131ca124573e721f3779df3edb64989fd4).
-
-## Installation
+> Make sure to follow the system requirements specified in [`package.json#engines`](./package.json#L4) before proceeding.
 
 There are two ways of initializing an app using the `create-t3-turbo` starter. You can either use this repository as a template:
 
