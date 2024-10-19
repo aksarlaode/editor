@@ -41,6 +41,7 @@
   "devDependencies": {
     "@aksar/eslint-config": "workspace:*",
     "@aksar/prettier-config": "workspace:*",
+    "@aksar/tailwind-config": "workspace:*",
     "@aksar/tsconfig": "workspace:*",
     "@types/react": "catalog:react18",
     "eslint": "catalog:",

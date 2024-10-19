@@ -487,6 +487,9 @@ importers:
       '@aksar/prettier-config':
         specifier: workspace:*
         version: link:../../tooling/prettier
+      '@aksar/tailwind-config':
+        specifier: workspace:*
+        version: link:../../tooling/tailwind
       '@aksar/tsconfig':
         specifier: workspace:*
         version: link:../../tooling/typescript
